@@ -1,11 +1,11 @@
 XCODE
 =====
 This is a demo application for the tip calculation application, Tipster.
+<br>
 Time spent: This project took me aprox 5 hours to complete as I have no coding experience beyond HTML/CSS 
 (This includes watching the videos)!
 
 I spent additional time learning more about coding in XCODE/SWIFT.
-(I am an expert designer but a beginner coder. I am highly motivated to learn all about XCODE.)
 
 Walkthrough of User Stories:
 
